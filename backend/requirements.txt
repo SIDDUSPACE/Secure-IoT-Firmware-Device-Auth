@@ -1,0 +1,6 @@
+# cryptography
+# pyopenssl
+# No external Python dependencies required.
+# Uses Python standard library:
+# - ssl
+# - socket
